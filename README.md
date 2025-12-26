@@ -8,8 +8,8 @@ Led the development of the Customer Account system, including account creation, 
 
 Features Implemented:
 
-Client–Server communication using provided core classes Account creation and password change functionality Inventory display for customers Secure login system
+Client–Server communication using provided core classes Account creation and password change functionality Inventory display for customers Secure login system.
 
 JavaFX scenes for:
 
-Login, Password management, Placing orders, Profile list, Settings
+Login, Password management, Placing orders, Profile list, Settings.
